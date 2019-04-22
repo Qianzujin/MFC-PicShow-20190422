@@ -208,6 +208,7 @@
     <None Include="res\MFCPicShow.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\..\Desktop\MFC-PicShow.png" />
     <Image Include="res\MFC-PicShow.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
