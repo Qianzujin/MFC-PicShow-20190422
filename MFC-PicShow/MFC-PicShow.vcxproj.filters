@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="图片截图">
-      <UniqueIdentifier>{92eee1d5-2069-4675-b70c-e6b9aff92853}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -61,9 +58,6 @@
   <ItemGroup>
     <Image Include="res\MFC-PicShow.ico">
       <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\Desktop\MFC-PicShow.png">
-      <Filter>图片截图</Filter>
     </Image>
   </ItemGroup>
 </Project>
